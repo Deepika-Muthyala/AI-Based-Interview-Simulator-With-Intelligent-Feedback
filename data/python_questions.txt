@@ -1,0 +1,101 @@
+What is Python?
+
+What are the key features of Python?
+
+What are Python's built-in data types?
+
+What is the difference between a list and a tuple?
+
+What is the difference between a list and a set?
+
+What is the difference between a dictionary and a list?
+
+What are mutable and immutable objects?
+
+What is a Python string?
+
+How do you reverse a string in Python?
+
+What is list comprehension?
+
+What is a lambda function?
+
+What are *args and **kwargs?
+
+What is a function in Python?
+
+What is recursion?
+
+What is the difference between break and continue?
+
+What is the difference between pass and continue?
+
+What are modules in Python?
+
+What are packages in Python?
+
+What is exception handling?
+
+What is the purpose of try, except, else, and finally?
+
+What is a class in Python?
+
+What is an object in Python?
+
+What is inheritance?
+
+What is polymorphism?
+
+What is encapsulation?
+
+What is abstraction?
+
+What is method overloading?
+
+What is method overriding?
+
+What is the __init__ method?
+
+What is self in Python?
+
+What are decorators?
+
+What are generators?
+
+What is the difference between generator and iterator?
+
+What is an iterator?
+
+What is a Python dictionary?
+
+How do you handle file operations in Python?
+
+What is the difference between read(), readline(), and readlines()?
+
+What is a virtual environment?
+
+What is PIP?
+
+What is NumPy?
+
+What is Pandas?
+
+What is a DataFrame?
+
+How do you handle missing values in Pandas?
+
+What is the difference between loc and iloc?
+
+What is Python's GIL?
+
+What is multithreading?
+
+What is multiprocessing?
+
+What is a REST API?
+
+How do you make API calls in Python?
+
+What are Python libraries?
+
+Explain a Python project you have worked on.

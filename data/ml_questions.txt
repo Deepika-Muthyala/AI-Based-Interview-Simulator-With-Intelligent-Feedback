@@ -1,0 +1,99 @@
+What is Machine Learning?
+
+What are the different types of Machine Learning?
+
+What is supervised learning?
+
+What is unsupervised learning?
+
+What is reinforcement learning?
+
+What is overfitting?
+
+What is underfitting?
+
+How can overfitting be prevented?
+
+What is cross-validation?
+
+What is train-test split?
+
+What is bias in Machine Learning?
+
+What is variance in Machine Learning?
+
+Explain the bias-variance tradeoff.
+
+What is feature engineering?
+
+What is feature selection?
+
+What is data preprocessing?
+
+Why is data cleaning important?
+
+What is normalization?
+
+What is standardization?
+
+What is a confusion matrix?
+
+What is accuracy in Machine Learning?
+
+What is precision?
+
+What is recall?
+
+What is F1-score?
+
+What is ROC-AUC?
+
+What is Logistic Regression?
+
+What is Linear Regression?
+
+What is Decision Tree?
+
+What is Random Forest?
+
+What is Support Vector Machine (SVM)?
+
+What is K-Nearest Neighbors (KNN)?
+
+What is Naive Bayes?
+
+What is Gradient Descent?
+
+What is a loss function?
+
+What is hyperparameter tuning?
+
+What is Grid Search?
+
+What is Ensemble Learning?
+
+What is Bagging?
+
+What is Boosting?
+
+What is XGBoost?
+
+What is clustering?
+
+What is K-Means clustering?
+
+What is dimensionality reduction?
+
+What is PCA?
+
+What is the difference between classification and regression?
+
+What is a dataset?
+
+What are features and labels?
+
+What is model evaluation?
+
+How do you handle missing values?
+
+Explain a Machine Learning project you have worked on.

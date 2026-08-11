@@ -1,0 +1,8 @@
+streamlit
+groq
+fpdf2
+python-dotenv
+SpeechRecognition
+gtts
+streamlit-mic-recorder
+pydub
